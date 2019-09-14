@@ -1,0 +1,15 @@
+Data on bus lines: 9, 34, 35
+----------------------------
+Data format:
+First line is a timestamp (that is the same name of the file)
+Rest of the line is space separated data representing
+(1) the bus id
+(2) the route name (usually a number)
+(3) X coord
+(4) Y coord
+----------------------------
+Completion:
+2019-09-11: from 16:23 to EOD
+2019-09-12: from BOD to EOD
+2019-09-13: from BOD to EOD
+2019-09-14: only after midnight
